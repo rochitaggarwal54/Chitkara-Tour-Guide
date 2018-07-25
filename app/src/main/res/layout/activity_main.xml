@@ -7,7 +7,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <RelativeLayout
@@ -30,7 +30,7 @@
                 android:gravity="bottom"
                 android:padding="10dip"
                 app:centered="true"
-                app:fillColor="#df0623"
+                app:fillColor="#df3"
                 app:pageColor="#fff"
                 app:snap="false" />
         </RelativeLayout>
